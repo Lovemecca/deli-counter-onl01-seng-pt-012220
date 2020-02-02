@@ -4,5 +4,6 @@ def line (katz_deli)
     puts "The line is currently empty."
   else
     "There are people in line"
-end 
+  end 
+end
 

@@ -1,3 +1,4 @@
 def line (katz_deli)
-  kats_delis = there is nobody in line 
+  kats_delis = []
+  puts there is nobody in line 
   
